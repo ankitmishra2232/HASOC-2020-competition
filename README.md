@@ -17,13 +17,4 @@ Sub-Task "B" in every language is a fine-grained label classificaion task that r
 
 # Dataset
 training and development Data initially provided by the organisers.
-you can check the Data of all of the three languages.
-## HINDI
-Training:-
-Development:-
-## ENGLISH
-Training:-
-Development:-
-## GERMAN
-Training:-
-Development:-
+you can check the Dataset of all of the three languages from here:-
