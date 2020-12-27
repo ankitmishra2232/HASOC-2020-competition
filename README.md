@@ -1,6 +1,6 @@
 # HASOC-2020-competition
 
-# HASOC provides a forum and a data challenge for multilingual research on the identification of problematic content.This year, they offered again 2 sub-tasks for each language such as English, German and Hindi, alltogether over 10.000 annotated tweets from Twitter.
+# HASOC provides a forum and a data challenge for multilingual research on the identification of problematic content.This year, they offered again 2 sub-tasks for each language such as English, German and Hindi, alltogether over 10000 annotated tweets from Twitter.
 
 We participated in both of the sub-tasks in all of the three languages Hindi, English and German. The name of our team was "iiit_DWD". we took the challenge and made the model for all of the tasks.
 
