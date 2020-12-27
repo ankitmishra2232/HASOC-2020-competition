@@ -17,4 +17,11 @@ Sub-Task "B" in every language is a fine-grained label classificaion task that r
 
 # Dataset
 training and development Data initially provided by the organisers.
-you can check the Dataset of all of the three languages from here:-
+you can check the Dataset of all of the three languages from here:- https://github.com/ankitmishra2232/HASOC-2020-competition/tree/main/Datasets
+
+# Result
+Rank were given on the basis of f1 score from 15% of the organisers privet data which isn't
+ provided.
+  #English :- (sub-task"A"/sub-task"B")= 1st/17th.
+  #HINDI :- (sub-task"A"/sub-task"B")= 11th/9th.
+  #GERMAN :-(sub-task"A"/sub-task"B")= 12th/xxxx.
